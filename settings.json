@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Lsaites.aternos.me",
+    "ip": "Lsaites.aternos.me:",
     "port": 50867,
     "version": "26.3"
   },
